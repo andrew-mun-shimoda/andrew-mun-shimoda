@@ -1,6 +1,6 @@
 ### Hello! My name is Andrew Mun-Shimoda! I'm a CS student at Queen's University, studying Artificial Intelligence. I'm passionate about Marketing, and hope to combine the two areas in the future!
 
-
+I'm currently working as a Tourism and Development Intern at the City of Vaughn, while working on my design and marketing skills on the side. 
 
 <!--
 **andrew-mun-shimoda/andrew-mun-shimoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
