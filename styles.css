@@ -8,3 +8,9 @@ body{
    font-family: 'Quicksand', sans-serif;
    src: url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 }
+
+.nav__list a {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
