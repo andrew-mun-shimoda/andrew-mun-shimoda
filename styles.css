@@ -3,3 +3,8 @@ body{
    background: #003B6F;
    text-align: center;
 }
+
+@font-face {
+   font-family: 'Quicksand', sans-serif;
+   src: url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+}
